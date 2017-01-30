@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3311" started-at="2017-01-30T11:37:16Z" finished-at="2017-01-30T11:37:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3311" started-at="2017-01-30T11:37:16Z" finished-at="2017-01-30T11:37:20Z">
+      <class name="com.qait.javatest.open.ExercisesTest">
+        <test-method status="PASS" signature="testCensor()[pri:0, instance:null(com.qait.javatest.open.ExercisesTest)]" name="testCensor" duration-ms="2413" started-at="2017-01-30T17:07:16Z" finished-at="2017-01-30T17:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCensor -->
+        <test-method status="PASS" signature="testExceptionalHandling()[pri:0, instance:null(com.qait.javatest.open.ExercisesTest)]" name="testExceptionalHandling" duration-ms="1" started-at="2017-01-30T17:07:19Z" finished-at="2017-01-30T17:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExceptionalHandling -->
+        <test-method status="PASS" signature="testIntervals()[pri:0, instance:null(com.qait.javatest.open.ExercisesTest)]" name="testIntervals" duration-ms="3" started-at="2017-01-30T17:07:19Z" finished-at="2017-01-30T17:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIntervals -->
+        <test-method status="PASS" signature="testIsPalindrome()[pri:0, instance:null(com.qait.javatest.open.ExercisesTest)]" name="testIsPalindrome" duration-ms="2" started-at="2017-01-30T17:07:19Z" finished-at="2017-01-30T17:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIsPalindrome -->
+        <test-method status="PASS" signature="testPascal()[pri:0, instance:null(com.qait.javatest.open.ExercisesTest)]" name="testPascal" duration-ms="866" started-at="2017-01-30T17:07:19Z" finished-at="2017-01-30T17:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPascal -->
+      </class> <!-- com.qait.javatest.open.ExercisesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
